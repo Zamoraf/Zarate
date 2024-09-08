@@ -1,1 +1,1 @@
-# Zarate
+# QR en kodular
